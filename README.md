@@ -76,7 +76,7 @@
 
 
 ### Find below Whatsapp Business Messenger API Automation Project Outlook
-<img align ="center" width="300" height="500" src="https://i.imgur.com/L3RtwUo.png">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/L3RtwUo.png">
 
 <img align ="center" width="300" height="500" src="https://i.imgur.com/Mg8Yw9f.jpg">
 
@@ -86,7 +86,7 @@
 
 <img align ="center" width="300" height="500" src="https://i.imgur.com/tdVYqz8.jpg">
 
-<img align ="center" width="300" height="500" src="https://i.imgur.com/7FRdihU.png">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/7FRdihU.png">
 
 
 
