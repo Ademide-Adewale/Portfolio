@@ -6,7 +6,7 @@
 
 **LinkedIn Page:** [Take me there](https://www.linkedin.com/in/ademide-adewale/)
 
-**Analytics Tools Used:** Python, Visio, Canva, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, SPSS, Power BI, Tableau, Google Ads, Facebook Ads, Mathematics and Statistics.
+**Analytics Tools Used:** Python, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, Power BI and Tableau
 
 
 
@@ -127,9 +127,9 @@
 
 ### Investment Banking Virtual Experience Program with JPMorgan at Forage;
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/pFW72Em.png">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/pFW72Em.png">
 
 
 ### Data Analysis Virtual Experience Program with KPMG at Forage;
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/le1e48n.png">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/le1e48n.png">
