@@ -26,7 +26,7 @@ Find below image recognision project I completed;
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/Mh2QfoR.png">
 
-Find Below customer evaluation report presentation I completed;
+Find below customer evaluation report presentation I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/1fNubAs.jpg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/C6eFm7j.jpg">
@@ -37,37 +37,24 @@ Find Below customer evaluation report presentation I completed;
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/q3jteEu.jpg">
 
-<img align ="center" width="1080" height="500" src="">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/llUypN4.png">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/3tNrfdE.png">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/qRBYRqn.png">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+Find below senatorial election tracking project I completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/cwB7Gjq.png">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/Att9KED.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/riefvOa.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/zqAZN4I.jpg">
 
 ### Project One - 10 Businesses Financial Overview
 
-##### Project One Objective
-In this project, the objective is to create a single dashboard for 10 different businesses owned by an investor. This investor is interested in knowing which of the business in his porfolio performing optimally, track the daily transactions from each business, and identify at a glance total profit/loss from all the business.
 
-##### Project One Tools
-In other for an assessment and solution to the investor's inquiries, the following tools were used;
-* Google Sheet
-* Microsoft Power BI
-* Microsoft Power Query
-* M Langauage
-* DAX
-
-##### Project One Workflow
-The project takes shape from Google Sheet, as google sheet serves as a spreedsheet that records all the daily transactions remotely. Afterwards, the information from google sheet is imported and transformed on powerbi using power query and m language, which now makes the data ready for restructuring with DAX and then graphical and illustrative visualisation and explaination.
-
-##### Project One Outlook
 You can see check out the visuals from the project in below or view the pdf picture gallery. [View here](https://drive.google.com/file/d/1vB-0JjvmUUBx_fud5VAO10MHTZjVS8wr/view?usp=sharing)
 
 Data feed structure summary at a glance:
