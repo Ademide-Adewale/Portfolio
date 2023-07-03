@@ -75,7 +75,7 @@
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
 
 
-### Find below Whatsapp Business Messenger API Automation Project Outlook
+### Find below Whatsapp Business Messenger API Automation Project Outlook;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/L3RtwUo.png">
 
 <img align ="center" width="300" height="500" src="https://i.imgur.com/Mg8Yw9f.jpg">
@@ -89,7 +89,7 @@
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/7FRdihU.png">
 
 
-### Find below Whatsapp Business Messenger API Automation Project Outlook
+### Find below other random projects completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/xFzkITP.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/KEgKED5.png">
@@ -105,21 +105,31 @@
 
 
 ## Certifications
-### Financial Analyst Certification:
+### Financial Analyst Certification;
 
 <img align ="center" width="720" height="400" src="https://i.imgur.com/TmfLZUo.jpg">
 
 
-### Data Analytics Certification:
+### Data Analytics Certification;
 
 <img align ="center" width="720" height="400" src="https://i.imgur.com/4fsUKXs.jpg">
 
 
-### Corporate Finance Certification from Corporate Financial Institute:
+### Corporate Finance Certification from Corporate Financial Institute;
 
 <img align ="center" width="720" height="400" src="https://i.imgur.com/Y01zKlC.png">
 
 
-### Investment Knowledge Certification from Chartered Financial Analyst:
+### Investment Knowledge Certification from Chartered Financial Analyst;
 
 <img align ="center" width="720" height="400" src="https://i.imgur.com/djrp2uy.png">
+
+
+### Investment Banking Virtual Experience Program with JPMorgan at Forage;
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/pFW72Em.png">
+
+
+### Data Analysis Virtual Experience Program with KPMG at Forage;
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/le1e48n.png">
