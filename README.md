@@ -26,18 +26,18 @@ Find below image recognision project I completed;
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/Mh2QfoR.png">
 
-Find Below election dashboard project I completed;
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+Find Below customer evaluation report presentation I completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/1fNubAs.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/C6eFm7j.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/lyKcZKL.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/nxKpg2l.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/q3jteEu.jpg">
 
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
+<img align ="center" width="1080" height="500" src="">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
 
