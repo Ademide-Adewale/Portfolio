@@ -1,4 +1,4 @@
-# Adewale Ademide - Financial/Data Analyst
+# Adewale Ademide - Financial Controller / Analyst
 
 ## Personal Data
 **Professional Resume:** [Take me there](https://docs.google.com/document/d/1qgyxQZ_wFdO6cBKhvxOedAPiyt2mKSyH/edit?usp=drive_link&ouid=110741943667957947871&rtpof=true&sd=true)
