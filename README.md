@@ -89,6 +89,20 @@
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/7FRdihU.png">
 
 
+### Find below Whatsapp Business Messenger API Automation Project Outlook
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/xFzkITP.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/KEgKED5.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/EIl5w1u.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/l8HO91j.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/4PbqO2J.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/9mpebfZ.png">
+
+
 
 ## Certifications
 ### Financial Analyst Certification:
