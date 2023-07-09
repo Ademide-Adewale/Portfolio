@@ -11,23 +11,10 @@
 
 
 ## Epic Project Outlook
-### Find below image recognition project I completed;
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/BzONfCI.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/seaesnG.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/GKcgYU0.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/E6fSXaK.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/4xGyhOf.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/ojILj3T.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/Mh2QfoR.png">
-
 
 ### Find below customer evaluation report presentation I completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/qRBYRqn.png">
+
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/1fNubAs.jpg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/C6eFm7j.jpg">
@@ -41,8 +28,6 @@
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/llUypN4.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/3tNrfdE.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/qRBYRqn.png">
 
 
 ### Find below senatorial election data tracking project I completed;
@@ -87,6 +72,20 @@
 <img align ="center" width="300" height="500" src="https://i.imgur.com/tdVYqz8.jpg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/7FRdihU.png">
+
+
+### Find below image recognition project I completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/CKGpuXU.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/mlgrjgO.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/458l7Ap.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/JreSpTj.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/ojILj3T.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/vykpfm4.png">
 
 
 ### Find below other random projects completed;
