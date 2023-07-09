@@ -89,6 +89,8 @@
 
 
 ### Find below other random projects completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/0iqKOPW.png">
+
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/xFzkITP.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/KEgKED5.png">
