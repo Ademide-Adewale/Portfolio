@@ -30,50 +30,6 @@
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/3tNrfdE.png">
 
 
-### Find below senatorial election data tracking project I completed;
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/cwB7Gjq.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/Att9KED.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/riefvOa.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/zqAZN4I.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/MFflCrW.jpg">
-
-
-### Find below business investment portfolio dashboard I completed;
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/bOyhcMi.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/iMTtVoz.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/rbU1lyd.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/xxHz7LW.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/Zi2G72m.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/Z52b4Eg.png">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/VlLwEtL.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/EYi1rwv.jpg">
-
-
-### Find below Whatsapp Business Messenger API Automation Project Outlook;
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/L3RtwUo.png">
-
-<img align ="center" width="300" height="500" src="https://i.imgur.com/Mg8Yw9f.jpg">
-
-<img align ="center" width="300" height="500" src="https://i.imgur.com/WR8aCVq.jpg">
-
-<img align ="center" width="300" height="500" src="https://i.imgur.com/RPTXdtm.jpg">
-
-<img align ="center" width="300" height="500" src="https://i.imgur.com/tdVYqz8.jpg">
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/7FRdihU.png">
-
-
 ### Find below image recognition project I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/CKGpuXU.png">
 
