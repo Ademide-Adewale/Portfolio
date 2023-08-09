@@ -15,6 +15,8 @@
 ### Find below financial report presentation for a M&A deal I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/6QnagBe.png">
 
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/W5fNYlM.png">
+
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/lzI8HeB.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/vzFIqfa.png">
@@ -23,9 +25,7 @@
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/3WGdUNy.png">
 
-_Assumption changes due to fire outbreak changes_
-
-<img align ="center" width="1080" height="500" src="https://i.imgur.com/W5fNYlM.png">
+_Revenue for next year drops due to fire outbreak_
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/iXcmSvV.png">
 
