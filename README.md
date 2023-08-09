@@ -12,7 +12,7 @@
 
 ## Epic Project Outlook
 
-### Find below financial report presentation for and M&A I completed;
+### Find below financial report presentation for a M&A deal I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/6QnagBe.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/lzI8HeB.png">
