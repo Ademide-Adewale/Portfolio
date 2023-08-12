@@ -30,6 +30,38 @@ _Revenue for next year drops due to fire outbreak_
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/iXcmSvV.png">
 
 
+### Find below financial report presentation for investment option evaluation I completed;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/sCMLQDt.jpg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/gSm3fFs.jpg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/eO5WBnD.jpg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/6Dr03cf.jpg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/PUKLLFx.jpg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/6aemTSn.jpg">
+
+
+### Find below business report presentation for the Nigeria Entertainment Industry I completed;
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/s3IaHQ1.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/4lJM5Yt.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/RxeMLBU.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/iPxBYIB.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/IME0tHT.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/AYWCfTJ.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/kTybQP6.jpg">
+
+<img align ="center" width="1080" height="2200" src="https://i.imgur.com/QUcq4Aj.jpg">
+
+
 ### Find below customer evaluation report presentation I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/qRBYRqn.png">
 
