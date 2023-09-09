@@ -97,6 +97,8 @@ _Revenue for next year drops due to fire outbreak_
 ### Find below other random projects completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/unCwOxR.png">
 
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/1IWXc3c.jpg">
+
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/0iqKOPW.png">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/xFzkITP.png">
