@@ -1,10 +1,12 @@
-# Adewale Ademide - Financial Data Analyst
+# Adewale Ademide - Financial Planning Analyst
 ## Personal Data
 **Professional Resume:** [Take me there](https://docs.google.com/document/d/1qgyxQZ_wFdO6cBKhvxOedAPiyt2mKSyH/edit?usp=drive_link&ouid=110741943667957947871&rtpof=true&sd=true)
 
 **Personal Website:** [Take me there](https://ademideadewale.wixsite.com/profile)
 
 **LinkedIn Page:** [Take me there](https://www.linkedin.com/in/ademide-adewale/)
+
+**WhatsApp:** [Send a Message](https://wa.me/+2347036744164)
 
 **Analytics Tools Used:** Python, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, Power BI and Tableau
 
