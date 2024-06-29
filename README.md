@@ -14,6 +14,15 @@
 
 ## Epic Project Outlook
 
+### Find below Career Survey report presentation I completed During IBM-DAP;
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/y5TLih9.jpeg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/h9etoo1.jpeg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/NNcsiVT.jpeg">
+
+
+
 ### Find below financial report presentation for a M&A deal I completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/6QnagBe.png">
 
