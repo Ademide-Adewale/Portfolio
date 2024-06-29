@@ -14,7 +14,7 @@
 
 ## Epic Project Outlook
 
-### Find below Career Survey report presentation I completed During IBM-DAP;
+### Find below Career Survey report presentation I completed During IBM-DAP with Congnos Analytics;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/y5TLih9.jpeg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/h9etoo1.jpeg">
