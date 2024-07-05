@@ -2,19 +2,28 @@
 ## Personal Data
 **Professional Resume:** [Take me there](https://drive.google.com/file/d/11X3arHD73hikg3-j8dV-5VozBcLOT4Ij/view?usp=drive_link)
 
-**Personal Website:** [Take me there](https://ademideadewale.wixsite.com/profile)
+**Personal Website:** [Take me there](https://ademideadewale.wixsite.com/profile/)
 
 **LinkedIn Page:** [Take me there](https://www.linkedin.com/in/ademide-adewale/)
 
+**Blog Page:** [Take me there](https://medium.com/@im__ademide/)
+
 **WhatsApp:** [Send a Message](https://wa.me/+2347036744164)
 
-**Analytics Tools Used:** Python, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, Power BI and Tableau
+**Analytics Tools Used:** Python, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, Cognos Analytics, Power BI and Tableau
 
 
 
 ## Epic Project Outlook
 
-### Find below Career Survey report presentation I completed During IBM-DAP with Congnos Analytics;
+### Find below Business Financial Report for Small and Medium Business Owners with Power BI;
+<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142340.png">
+
+<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142300.png">
+
+<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142218.png">
+
+### Find below Career Survey report presentation I completed During IBM-DAP with Cognos Analytics;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/y5TLih9.jpeg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/h9etoo1.jpeg">
@@ -127,14 +136,24 @@ _Revenue for next year drops due to fire outbreak_
 
 
 ## Certifications
+### Data Science Certification;
+
+<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/DS-Professional-Cert_page-0001.jpg">
+
+
+### Data Analysis Certification;
+
+<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/DA-Professional-Cert_page-0001.jpg">
+
+
+### Business Intelligence Certification;
+
+<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/BI-Professional-Cert_page-0001.jpg">
+
+
 ### Financial Analyst Certification;
 
 <img align ="center" width="720" height="400" src="https://i.imgur.com/TmfLZUo.jpg">
-
-
-### Data Analytics Certification;
-
-<img align ="center" width="720" height="400" src="https://i.imgur.com/4fsUKXs.jpg">
 
 
 ### Corporate Finance Certification from Corporate Financial Institute;
