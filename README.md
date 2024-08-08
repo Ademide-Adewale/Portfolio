@@ -154,7 +154,7 @@ _Revenue for next year drops due to fire outbreak_
 
 ### Business Intelligence Certification;
 
-<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/BI-Professional-Cert_page-0001.jpg">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/rPVa6aD.jpeg">
 
 
 ### Financial Analyst Certification;
