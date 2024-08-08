@@ -17,18 +17,22 @@
 ## Epic Project Outlook
 
 ### Find below Business Financial Report for Small and Medium Business Owners with Power BI;
-<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142340.png">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/vIjJprg.png">
 
-<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142300.png">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/ZsG6t1k.png">
 
-<img align ="center" width="1080" height="500" src="https://tinypic.host/images/2024/07/05/Screenshot-2024-07-05-142218.png">
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/2DOR9iG.png">
 
-### Find below Career Survey report presentation I completed During IBM-DAP with Cognos Analytics;
+### Find below Career Survey report presentation I completed During IBM Training with Cognos Analytics;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/y5TLih9.jpeg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/h9etoo1.jpeg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/NNcsiVT.jpeg">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/epCWPgu.png">
+
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/3OjdehH.png">
 
 
 
@@ -117,6 +121,8 @@ _Revenue for next year drops due to fire outbreak_
 ### Find below other random projects completed;
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/unCwOxR.png">
 
+<img align ="center" width="1080" height="500" src="https://i.imgur.com/f5RUihE.png">
+
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/1IWXc3c.jpg">
 
 <img align ="center" width="1080" height="500" src="https://i.imgur.com/0iqKOPW.png">
@@ -138,12 +144,12 @@ _Revenue for next year drops due to fire outbreak_
 ## Certifications
 ### Data Science Certification;
 
-<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/DS-Professional-Cert_page-0001.jpg">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/sKNST49.jpeg">
 
 
 ### Data Analysis Certification;
 
-<img align ="center" width="720" height="400" src="https://tinypic.host/images/2024/07/05/DA-Professional-Cert_page-0001.jpg">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/PP0QZul.jpeg">
 
 
 ### Business Intelligence Certification;
