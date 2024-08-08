@@ -12,7 +12,7 @@
 
 **Video Intro:** [Watch Video](https://drive.google.com/file/d/1wgl70FrMxz-jWv-2f3ZUVHIW05sJTzG5/view?usp=sharing)
 
-**Analytics Tools Used:** Python, SQL, Jira, Trello, Google Analytics, Google Suite, Microsoft Office Suite, Lucid Chart, SPSS, MongoDB, Big Query, STATA, Cognos Analytics, Power BI and Tableau
+**Analytics Tools Used:** Python, SQL, Jira, Trello, Google Analytics, Google Suite, Microsoft Office Suite, Lucid Chart, Facebook API, SPSS, MongoDB, Big Query, STATA, Cognos Analytics, Power BI and Tableau
 
 
 
