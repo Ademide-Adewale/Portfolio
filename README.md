@@ -10,7 +10,9 @@
 
 **WhatsApp:** [Send a Message](https://wa.me/+2347036744164)
 
-**Analytics Tools Used:** Python, SQL, DAX, VBA, Spreadsheet, Google Suite, Microsoft Office Suite, Power Query, M Query, STATA, Cognos Analytics, Power BI and Tableau
+**Video Intro:** [Watch Video](https://drive.google.com/file/d/1wgl70FrMxz-jWv-2f3ZUVHIW05sJTzG5/view?usp=sharing)
+
+**Analytics Tools Used:** Python, SQL, Jira, Trello, Google Analytics, Google Suite, Microsoft Office Suite, Lucid Chart, SPSS, MongoDB, Big Query, STATA, Cognos Analytics, Power BI and Tableau
 
 
 
@@ -154,7 +156,7 @@ _Revenue for next year drops due to fire outbreak_
 
 ### Business Intelligence Certification;
 
-<img align ="center" width="720" height="400" src="https://i.imgur.com/rPVa6aD.jpeg">
+<img align ="center" width="720" height="400" src="https://i.imgur.com/krMspxM.jpeg">
 
 
 ### Financial Analyst Certification;
